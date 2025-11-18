@@ -182,4 +182,3 @@ The project highlighted critical security principles: physical security importan
 
 ---
 
-**Lab Completed:** [Completion Date] | **Competition Status:** Active Defense
