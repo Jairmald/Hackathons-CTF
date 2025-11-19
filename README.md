@@ -47,16 +47,14 @@ Hands-on CTF challenges across 7 security domains. Each challenge is realistic, 
 
 ```
 Hackathons-CTF/
+├── README.md
 ├── crypto/               (challenges with instructions.md, data/, solution.md)
 ├── osint/                (challenges with instructions.md, assets/, solution.md)
 ├── logs/                 (challenges with instructions.md, data/, solution.md)
 ├── network/              (challenges with instructions.md, data/, solution.md)
 ├── reversing/            (challenges with instructions.md, binary/, solution.md)
 ├── password-cracking/    (challenges with instructions.md, hashes/, solution.md)
-├── web-exploitation/     (challenges with instructions.md, app/, solution.md)
-├── solutions/            (organized by category)
-├── tools/                (helper scripts and utilities)
-└── README.md
+└──  web-exploitation/     (challenges with instructions.md, app/, solution.md)
 ```
 
 ---
