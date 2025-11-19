@@ -1,15 +1,16 @@
 # Hackathons-CTF
 
-```<div align="center">
+<center>
+```
   _____ _______ ______ 
  / ____|__   __|  ____|
 | |       | |  | |__   
 | |       | |  |  __|  
 | |____   | |  | |
  \_____|  |_|  |_|
-          
-
+</center>   
 ```
+
 
 <div align="center">
 
