@@ -1,6 +1,6 @@
 # Hackathons-CTF
 
-<center>
+<div align="center">
 ```
   _____ _______ ______ 
  / ____|__   __|  ____|
@@ -9,8 +9,7 @@
 | |____   | |  | |
  \_____|  |_|  |_|
 
-```
-</center>   
+```</div>
 
 <div align="center">
 
